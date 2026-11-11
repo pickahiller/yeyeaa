@@ -1,4 +1,0 @@
-<resources>
-    <string name="app_name">Quiz Helper</string>
-    <string name="service_desc">Double-press Volume Down to screenshot the screen, ask AI the multiple-choice question, and show the answer letter in the status bar.</string>
-</resources>
